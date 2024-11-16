@@ -1,0 +1,8 @@
+Ticket Information 
+Row: A
+Seat: 14
+Price: 180.0
+Person Information 
+Name: sdad
+Surname: asdawd
+Email: awdwd
